@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **MERN and Android Native**
 
-- 📄 Know about my experiences [https://saazneupane.github.io/Portfolio/](https://saazneupane.github.io/Portfolio/)
+- 📄 Know about my experiences [https://saazneupane.github.io](https://saazneupane.github.io)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
